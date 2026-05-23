@@ -7,7 +7,7 @@
 <h1 align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1200&color=FFFFFF&width=600&lines=Hi+I'm+Shivendra+Chouhan+👋">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1200&color=000000&width=600&lines=Hi+I'm+Nilesh+Prajapat+👋" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1200&color=000000&width=600&lines=Hi+I'm+Shivendra+Chouhan+👋" />
   </picture>
 </h1>
 
@@ -16,7 +16,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://imgs.search.brave.com/92POjYqb2eL88l4kHY-Go7hnDQ4DfNVOmauqxVJ_g28/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhPSGt6TTJrMU4y/ZGhaSGh4TkdaeE1H/MXFkakIyWm1KdmRt/SmplV051YUdSdWVY/bDVkSEZyYUNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vaUlxbU01dFRq/bXBPQjltcGJuLzIw/MC5naWY.gif"  />
+  <img height="500" src="https://imgs.search.brave.com/92POjYqb2eL88l4kHY-Go7hnDQ4DfNVOmauqxVJ_g28/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhPSGt6TTJrMU4y/ZGhaSGh4TkdaeE1H/MXFkakIyWm1KdmRt/SmplV051YUdSdWVY/bDVkSEZyYUNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vaUlxbU01dFRq/bXBPQjltcGJuLzIw/MC5naWY.gif"  />
 </div>
 
 ###

@@ -1,8 +1,15 @@
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&text=Hii%F0%9F%91%8B%20i'm%20Shivendra&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=1&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
-</div>
+<p align="center">
+  <img src="./banner.gif" width="100%" height="550"/>
+</p>
+<!-- Subtle animated heading (adapts to light/dark) -->
+<h1 align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1200&color=FFFFFF&width=600&lines=Hi+I'm+Shivendra+Chouhan+👋">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1200&color=000000&width=600&lines=Hi+I'm+Nilesh+Prajapat+👋" />
+  </picture>
+</h1>
 
 ###
 

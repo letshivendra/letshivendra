@@ -20,19 +20,29 @@
 
 <br clear="both">
 
-<h2 align="left">About me</h2>
+<h2 align="left">🚀 About Me</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">Aspiring Full Stack Developer and Computer Science student passionate about building scalable applications and strengthening core programming fundamentals.<br><br>Currently focused on:<br>- Java & Object-Oriented Programming<br>- Data Structures & Algorithms<br>- Backend Development<br>- Real-world Project Building<br><br>Always learning, building, and improving.</p>
+<p align="left">
+
+💻 Aspiring Full Stack Developer and Computer Science student passionate about building scalable applications and strengthening core programming fundamentals.
+
+### 🌱 Currently Focused On
+- ☕ Java & Object-Oriented Programming
+- 🧠 Data Structures & Algorithms
+- ⚙️ Backend Development
+- 🛠️ Real-world Project Building
+
+📚 Always learning, building, and improving.</p>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">I code with</h2>
+<h2 align="left">💻 Tech Stack:</h2>
 
 ###
 
@@ -76,7 +86,7 @@
 
 ###
 
-<h2 align="left">Social links</h2>
+<h2 align="left">🌐 Socials:</h2>
 
 ###
 
@@ -103,6 +113,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ###
